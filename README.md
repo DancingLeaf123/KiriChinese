@@ -1,3 +1,4 @@
+The text marked with #yeahz represents my comments or indicates that I've used it.
 # Principles
 - The entire process of learning Chinese is conducted at your own pace and based on your interests.
 - "Materials are just a means; everyone's methods may vary, and you can choose what you prefer.
@@ -38,7 +39,9 @@
 
 # The methodology of learning a foreign language：
 
-[我们十几年的外语教育方法几乎全错了 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/51717106)
+[如何正确使用人脑来在几个月内学会英语 - YouTube](https://www.youtube.com/watch?v=E3Q5nlr078Q)
+
+#yeahz The first half of the video is spoken in English; the creator is Chinese, proficient in Japanese, English, and Chinese.
 
 ---
 
@@ -48,17 +51,17 @@
 # Dictionary:
 
 ## browser Extension: 
-- Immersive Translate
+- Immersive Translate  #yeahz 've used and found it good
 
 ---
 
 # websites for me to learning foreign languages:
 
-﻿ - [(zhile.io)](https://chat-shared.zhile.io/shared.html)
-free shared chatgpt 3.5
+﻿ - [(zhile.io)](https://chat-shared.zhile.io/shared.html)  #yeahz 've used and found it good
+free shared chatgpt 3.5  
 
 
-- https://lang-8.com/
+- https://lang-8.com/  #yeahz 've used 
 Lang-8 is the best place for learning and practicing foreign languages. Post an entry in the language you are learning, then a native speaker will correct
 > #yeahz I can correct entry articles for you
 
@@ -67,5 +70,7 @@ Lang-8 is the best place for learning and practicing foreign languages. Post an 
 
 # most visited websites by Chinese people: 
 
-Chinese Quora: www.zhihu.com 
-Chinese YouTube: www.bilibili.com
+Chinese Quora:  #yeahz 've used
+www.zhihu.com    
+Chinese YouTube:  #yeahz 've used
+www.bilibili.com  
