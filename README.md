@@ -1,7 +1,11 @@
 The text marked with #yeahz represents my comments or indicates that I've used it.
 # Principles
 - The entire process of learning Chinese is conducted at your own pace and based on your interests.
+<<<<<<< HEAD
 - Materials are just a means; everyone's methods may vary, and you can choose what you prefer.
+=======
+- "Materials are just a means; everyone's methods may vary, and you can choose what you prefer.
+>>>>>>> 862a90db17262b84f38c8950e00fbb96f2b25582
 
 ---
 
@@ -56,6 +60,7 @@ The text marked with #yeahz represents my comments or indicates that I've used i
 ---
 
 # websites for me to learning foreign languages:
+<<<<<<< HEAD
 
 
 
@@ -68,6 +73,16 @@ Lang-8 is the best place for learning and practicing foreign languages. Post an 
 > #yeahz I can correct entrys/articles for you
 
 
+=======
+
+﻿ - [(zhile.io)](https://chat-shared.zhile.io/shared.html)  #yeahz 've used and found it good
+free shared chatgpt 3.5  
+
+
+- https://lang-8.com/  #yeahz 've used 
+Lang-8 is the best place for learning and practicing foreign languages. Post an entry in the language you are learning, then a native speaker will correct
+> #yeahz I can correct entry articles for you
+>>>>>>> 862a90db17262b84f38c8950e00fbb96f2b25582
 
 
 ---
